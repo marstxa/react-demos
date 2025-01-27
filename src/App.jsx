@@ -3,9 +3,10 @@ import Counter from "./components/Counter";
 import TodoApp from "./components/todoApp";
 import FetchingData from "./components/FetchingData";
 import Calculator from "./components/calculator-app/Calculator";
+import ChangeBackgroundColors from "./components/ChangeBackgroundColors";
 
 function App() {
-  return <Calculator />;
+  return <ChangeBackgroundColors />;
 }
 
 export default App;
