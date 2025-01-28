@@ -4,9 +4,11 @@ import TodoApp from "./components/todoApp";
 import FetchingData from "./components/FetchingData";
 import Calculator from "./components/calculator-app/Calculator";
 import ChangeBackgroundColors from "./components/ChangeBackgroundColors";
+import SearchBar from "./components/SearchBar";
+import Testimonials from "./components/Testimonials";
 
 function App() {
-  return <ChangeBackgroundColors />;
+  return <Testimonials />;
 }
 
 export default App;
